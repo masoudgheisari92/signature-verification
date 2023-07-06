@@ -9,7 +9,7 @@ Siamese neural network is used to distinguish genuine and fraud signatures. The 
 1. Clone the Repository
 
    ```bash
-   git clone https://github.com/masoudgheisari20/signature-verification.git
+   git clone https://github.com/masoudgheisari92/signature-verification.git
    ```
 
 2. Create virtual environment and install required packages:
